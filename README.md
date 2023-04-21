@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsejin0206)](https://solved.ac/kimsejin0206/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsejin0206)](https://solved.ac/kimsejin0206/)  
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=6DB33F)![C++](https://img.shields.io/badge/C++-A8B9CC.svg?&style=for-the-badge&logo=C++&logoColor=A8B9CC)
